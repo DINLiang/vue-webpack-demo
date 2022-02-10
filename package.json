@@ -44,7 +44,7 @@
     "@babel/runtime-corejs2": "^7.4.5",
     "babel-loader": "^8.0.6",
     "core-js": "^3.1.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "open-browser-webpack-plugin": "0.0.5",
     "vue": "^2.6.10",
     "vue-router": "^3.0.6",
